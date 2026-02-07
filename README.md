@@ -19,7 +19,7 @@ A powerful WordPress plugin that adds advanced product dependency, restriction, 
 
 ### 👥 User Role Support
 
-- Apply rules to specific user roles (CT-Teen, CT-Adult, MA-Teen, MA-Adult)
+- Apply rules to specific user roles
 - Rules can apply to all users or be role-specific
 - Flexible role detection from WordPress roles, user meta, and custom fields
 
